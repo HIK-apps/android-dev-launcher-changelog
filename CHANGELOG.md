@@ -1,3 +1,8 @@
+Version 1.0.2 *(2022-12-27)*
+-----------------------------------
+
+* Bug fix: catching no activity to handle dev settings intent
+
 Version 1.0.1 *(2022-10-23)*
 -----------------------------------
 
