@@ -1,3 +1,9 @@
+Version 1.1.0 *(2023-01-03)*
+-----------------------------------
+
+* Feature: PINNED section is finally here! 🕺
+* Bug fix: catching no activity to handle dev mode instructions intent
+
 Version 1.0.3 *(2022-12-04)*
 -----------------------------------
 
