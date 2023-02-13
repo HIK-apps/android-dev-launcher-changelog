@@ -1,3 +1,10 @@
+Version 1.2.0 *(2023-02-13)*
+-----------------------------------
+
+* Feature: DARK THEME! 🌚🌝
+* Feature: Social links
+* Bug fixes: Major functional and visual fixes for Android Lollipop
+
 Version 1.1.2 *(2023-01-18)*
 -----------------------------------
 
