@@ -1,3 +1,13 @@
+Version 1.3.0 *(2023-03-10)*
+-----------------------------------
+
+This is a "Stability Release".
+Visible changes are tiny. It focuses on optimizations behind the scenes to make the overall performance of the app smoother.
+
+* Feature: Major improvements in memory management.
+* Feature: `Edit` button optimized for Dark Theme.
+* A number of small optimizations in data handling.
+
 Version 1.2.0 *(2023-02-13)*
 -----------------------------------
 
