@@ -1,3 +1,9 @@
+Version 1.4.1 *(2023-05-15)*
+-----------------------------------
+
+* Feature: LeakCanary 🐤 Leaks are now accessible from the App Details Bottom Sheet
+* Feature: You can hide all LeakCanary 🐤 apps from Tools section from Settings
+
 Version 1.4.0 *(2023-05-12)*
 -----------------------------------
 
