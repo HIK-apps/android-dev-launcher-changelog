@@ -1,3 +1,10 @@
+Version 1.4.2 *(2023-06-26)*
+-----------------------------------
+
+* Bug fix: Settings not scrollable
+
+Starting from this version, this github repo will be also hosting official APK releases for devices which don't have access to Google Play Store.
+
 Version 1.4.1 *(2023-05-15)*
 -----------------------------------
 
