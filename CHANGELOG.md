@@ -1,9 +1,15 @@
+Version 1.5.0 *(2023-08-22)*
+-----------------------------------
+
+This is another "Stability Release".
+
+Most of the changes are internal. One thing you might start noticing is different action handling (e.g. in the App Details Bottom Sheet).
+You might not see some actions for apps which don't support them. 
+
 Version 1.4.2 *(2023-06-26)*
 -----------------------------------
 
 * Bug fix: Settings not scrollable
-
-Starting from this version, this github repo will be also hosting official APK releases for devices which don't have access to Google Play Store.
 
 Version 1.4.1 *(2023-05-15)*
 -----------------------------------
