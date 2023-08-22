@@ -3,7 +3,6 @@
 This repository is dedicated to the **Android Dev Launcher** app. Its primary purpose is to provide a centralized hub for the following:
 
 - **Public CHANGELOG**: Stay updated with the latest changes, enhancements, and bug fixes.
-- **Official APK Releases**: Specifically designed for devices without Google Play Store access.
 
 <a href='https://play.google.com/store/apps/details?id=com.hikapps.adl&referrer=utm_source%3Dgithub%26utm_medium%3Dchangelog-cta'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
