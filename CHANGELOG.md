@@ -1,3 +1,11 @@
+Version 1.5.1 *(2023-09-01)*
+-----------------------------------
+
+This is another "Stability Release".
+
+Most of the changes are internal. One thing you might start noticing is different action handling (e.g. in the App Details Bottom Sheet).
+You might not see some actions for apps which don't support them. 
+
 Version 1.5.0 *(2023-08-22)*
 -----------------------------------
 
