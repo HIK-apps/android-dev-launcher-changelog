@@ -1,3 +1,10 @@
+Version 1.6.0 *(2024-05-27)*
+-----------------------------------
+
+* Feature: Collapsible Quick Actions
+* Feature: Device settings button in Toolbar
+* Feature: Device info in Settings
+
 Version 1.5.3 *(2023-09-20)*
 -----------------------------------
 
