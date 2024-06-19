@@ -1,3 +1,8 @@
+Version 1.6.1 *(2024-06-19)*
+-----------------------------------
+
+* Removed the logo animation on collapsing/expanding dev actions section
+
 Version 1.6.0 *(2024-05-27)*
 -----------------------------------
 
