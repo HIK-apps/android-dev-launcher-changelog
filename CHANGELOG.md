@@ -1,3 +1,9 @@
+Version 1.7.0 *(2025-11-23)*
+-----------------------------------
+
+* Feature: Search box. Finally.
+* Feature: Pin/unpin apps from App Details
+
 Version 1.6.3 *(2025-09-01)*
 -----------------------------------
 
