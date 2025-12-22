@@ -1,3 +1,8 @@
+Version 1.8.1 *(2025-12-22)*
+-----------------------------------
+
+* Improvements to the system back button handling
+
 Version 1.8.0 *(2025-12-22)*
 -----------------------------------
 
